@@ -1,5 +1,5 @@
 #!/bin/bash
 
 
-touch file1
-touch file2
+uptime > file1
+uptime > file2
